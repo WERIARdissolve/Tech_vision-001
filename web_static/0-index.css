@@ -1,3 +1,15 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+footer{
+    color: green;
+    height: 60px;
+    width: 100%;
+    position: relative;
+    top: 600px;
+    left: 0;
+}
 header {
     color: rgb(10, 44, 45);
     height: 70px;
