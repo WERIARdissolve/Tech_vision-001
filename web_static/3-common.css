@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+p {
+    background: #ffd59e;
+    width: 100%;
+    max-width: 500px;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.school-quality{
+    background-color: rgb(161, 255, 202);
+    width: 100%;
+    max-width: 500px;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+} 
